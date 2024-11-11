@@ -62,6 +62,9 @@ endmodule
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-**TRUTH TABLE**
+
 
 **RESULTS**
+
+
+the implementation of synchronous up counter using quartus || and verilog was executed succesfully.
