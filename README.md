@@ -46,6 +46,16 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 Developed by:saiguruchandran g
  RegisterNumber:212223240143
+module UPCOUNTER(out,clk,rstn);
+ input clk, rstn;
+output reg [3:0] out; 
+always @ (posedge clk) begin  
+    if (! rstn)  
+      out <= 0;  
+    else  
+      out <= out + 1;  
+  end  
+endmodule
 */
 ```
 **RTL LOGIC UP COUNTER**
