@@ -59,8 +59,10 @@ endmodule
 */
 ```
 **RTL LOGIC UP COUNTER**
+![WhatsApp Image 2024-11-11 at 16 42 00_0b3f23a3](https://github.com/user-attachments/assets/116aaeaf-639c-4ea8-994c-12901df46531)
 
 **TIMING DIAGRAM FOR IP COUNTER**
+![WhatsApp Image 2024-11-11 at 16 41 48_f797836e](https://github.com/user-attachments/assets/7535ce45-0691-4d88-84aa-39c1ce3e7566)
 
 
 
